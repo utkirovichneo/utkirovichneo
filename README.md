@@ -63,15 +63,7 @@ I’m a **Java Developer** with experience in building high-performance applicat
   <a href="https://www.linkedin.com/in/ruzimbayev-tolqin/" target="_blank" style="text-decoration: none;">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn GIF" width="60" height="60"/>
   </a>
-  <a href="https://discord.com/invite/yourinvitecode" target="_blank" style="text-decoration: none;">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord GIF" width="60" height="60"/>
-  </a>
   <a href="https://t.me/Tolik_2107" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="55" height="55"/>
-  </a>
-</div>
-<div style="margin-top: 10px;">
-  <a href="mailto:ruzimbayevtolqin@gmail.com" target="_blank" style="text-decoration: none; font-size: 20px; color: #0073e6;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Email_icon.svg" alt="Email" width="20" height="20"/> 📧 Email me
   </a>
 </div>
