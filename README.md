@@ -60,7 +60,7 @@ I’m a **Java Developer** with experience in building high-performance applicat
 ### 🔗 Connect with me:
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 10px;">
-  <a href="https://www.linkedin.com/in/ruzimbayev-tolqin/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/tolqin-ruzimbayev" target="_blank" style="text-decoration: none;">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn GIF" width="60" height="60"/>
   </a>
   <a href="https://t.me/Tolik_2107" target="_blank" style="text-decoration: none;">
