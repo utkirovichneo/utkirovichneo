@@ -28,24 +28,12 @@ I’m a **Java Developer** with experience in building high-performance applicat
     <img src="https://jakarta.ee/images/jakarta-ee-logo.png" alt="jakarta ee" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="60" height="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
