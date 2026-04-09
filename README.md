@@ -1,135 +1,57 @@
-# Hi there, I'm To'lqin 👋
+<h1 align="center">
+  Hi there, I'm Tolik</a> 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="55" width="45"/>
+</h1>
 
-## Java Backend Developer | Spring Boot Enthusiast | REST API Builder
+### 👨‍💻 About Me:
+I’m a **Java Developer** with experience in building high-performance applications. I love exploring new technologies and improving my skills in software development.
 
-I am a backend developer focused on building scalable, secure, and high-performance applications using Java and Spring Boot.
-
-I enjoy creating REST APIs, payment integrations, authentication systems, notification services, and full backend architectures for real-world applications.
-
----
-
-## About Me
-
-* Java Backend Developer
-* Strong experience with Spring Boot ecosystem
-* Building scalable REST APIs
-* Working with Microservices Architecture
-* Integrating Payment Systems like Click and Payme
-* Firebase Cloud Messaging (FCM) integrations
-* Authentication & Authorization with Spring Security
-* Working with SQL databases and JPA/Hibernate
-* Interested in clean architecture and best practices
+- 🌱 I’m currently learning **Spring Boot** and **Java 21**
+- 👯 I’m looking to collaborate on interesting Java projects
+- 💬 Ask me about Java, Spring Boot, REST APIs, and anything tech-related
 
 ---
 
-## Tech Stack
 
-### Backend
+## 🛠️ Technologies & Tools:
 
-* Java
-* Spring Boot
-* Spring Security
-* Spring Data JPA
-* Hibernate
-* REST API
-* Microservices
-* WebSocket
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://jakarta.ee/" target="_blank" rel="noreferrer">
+    <img src="https://jakarta.ee/images/jakarta-ee-logo.png" alt="jakarta ee" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+  </a>
+</p>
 
-### Database
+### 🔗 Connect with me:
 
-* PostgreSQL
-* MySQL
-* Redis
-* MongoDB
-
-### Tools & Platforms
-
-* Git & GitHub
-* Docker
-* Postman
-* IntelliJ IDEA
-* Maven
-* Gradle
-* Linux
-* Firebase
-
----
-
-## Featured Skills
-
-### Payment Integrations
-
-* ClickUz
-* Payme
-* Token-based Payments
-* Prepare / Complete APIs
-* Subscription & Transaction Logic
-
-### Authentication Systems
-
-* JWT Authentication
-* SMS Login
-* Session Authentication
-* Cookie-based Remember Me
-* Role-based Authorization
-
-### Notification Systems
-
-* Firebase Cloud Messaging (FCM)
-* Push Notifications
-* Persistent Notification Storage
-* Multi-device Token Management
-
----
-
-## Current Focus
-
-* Improving Microservices knowledge
-* Building production-ready backend systems
-* Writing cleaner and more maintainable code
-* Learning advanced system design concepts
-* Exploring Docker and DevOps tools
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## Featured Projects
-
-### Online Testing Platform
-
-A complete backend system for online exams, question management, test sessions, purchases, permissions, and result reports.
-
-### E-Commerce Backend
-
-Backend for marketplace and delivery systems with authentication, product management, order tracking, notifications, and payment integrations.
-
-### Payment Integration Service
-
-Java Spring Boot service for Click payment prepare/complete flow, tokenization, and transaction management.
-
-### Notification Service
-
-FCM-based push notification system with persistent storage and token management.
-
----
-
-## Contact Me
-
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-* Email: [your_email@example.com](mailto:your_email@example.com)
-
----
-
-## Quote
-
-> "First, solve the problem. Then, write the code."
-
-Thanks for visiting my profile 🚀
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 10px;">
+  <a href="https://www.linkedin.com/in/tolqin-ruzimbayev" target="_blank" style="text-decoration: none;">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn GIF" width="60" height="60"/>
+  </a>
+  <a href="https://t.me/Tolik_2107" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="55" height="55"/>
+  </a>
+</div>
